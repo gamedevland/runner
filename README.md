@@ -2,4 +2,4 @@
 
 Tutorial: https://gamedev.land/runner/
 
-Preview demo: https://gamedevland.github.io/match3/
+Preview demo: https://gamedevland.github.io/runner/
